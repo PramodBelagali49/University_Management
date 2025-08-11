@@ -52,6 +52,4 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a pull request!
 
 ## Contact
-✉️ For any questions, reach out at nishanthgowdak@gmail.com or create an issue in the repository.
-
-
+✉️ For any questions, reach out at cse.pramod.b2@gmail.com or create an issue in the repository.
