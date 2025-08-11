@@ -16,7 +16,7 @@ A Java-based application for efficiently managing university operations, includi
 ## Technologies Used
 
 - **Programming Language**: Java
-- **Tools and Libraries**: Core Java functionalities
+- **Tools and Libraries**: JDBC, MySQL, Jawa Swing, JFrame classes
 
 ---
 
