@@ -24,7 +24,7 @@ A Java-based application for efficiently managing university operations, includi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nishanth1102/University_Management.git
+   git clone https://github.com/PramodBelagali49/University_Management.git
 
 2. Navigate to the project folder:
    ```bash
